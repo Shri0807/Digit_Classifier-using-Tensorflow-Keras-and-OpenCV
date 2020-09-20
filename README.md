@@ -36,7 +36,7 @@ Note:-
 > There is a certain threshold set for predicting the number. If the probability is below the threshold the output won't be shown. 
 -----------------------------------------------------------------------------------
 
-The Metrics folder shows the output plot, accuracy etc. The Output Folder has 2 screenshots of output images.
+The **Metrics folder** shows the output plot, accuracy etc. The **Output Folder** has 2 screenshots of output images.
 
 # How to run the project
 1. Create a python virtual environment and Install the dependencies stated above.
